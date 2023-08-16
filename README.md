@@ -1,4 +1,6 @@
-# This is a widget that allows buying tokens in several forms.
+## A widget that allows buying/selling tokens in several forms.
+
+The application is built using NextJS styled with TailwindCSS.
 
 ## Getting Started
 
